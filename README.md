@@ -1,5 +1,5 @@
 # flutter_translate_annotations
-Defines the annotations used by flutter_translate_gen to create statically-typed localization keys.
+Defines the annotations used by [flutter translate gen](https://github.com/jesway/flutter_translate_gen) to create statically-typed localization keys for [flutter translate](https://github.com/jesway/flutter_translate)
 
 ## License
 
