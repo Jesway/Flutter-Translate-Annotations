@@ -1,4 +1,4 @@
-﻿import 'package:flutter_translate_annotations/src/case_style.dart';
+import 'package:flutter_translate_annotations/src/case_style.dart';
 
 class TranslateKeysOptions {
 
@@ -8,5 +8,5 @@ class TranslateKeysOptions {
 
     final CaseStyle caseStyle;
 
-    const TranslateKeysOptions({this.path, this.caseStyle = CaseStyle.titleCase, this.separator = "_"}) : assert(path != null);
+    const TranslateKeysOptions({required this.path, this.caseStyle = CaseStyle.titleCase, this.separator = "_"}) : assert(path != null);
 }
