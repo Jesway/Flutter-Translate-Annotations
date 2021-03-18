@@ -1,7 +1,6 @@
 name: flutter_translate_annotations
 description: Defines the annotations used by flutter_translate_gen to create statically-typed localization keys.
 version: 2.0.0
-author: Florin Bratan <florin@leadcode.dev>
 homepage: https://leadcode.dev
 repository: https://github.com/bratan/flutter_translate_annotations
 
