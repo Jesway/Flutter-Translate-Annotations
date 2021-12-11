@@ -3,4 +3,5 @@
     titleCase,
     lowerCase,
     upperCase,
+    camelCase
 }
